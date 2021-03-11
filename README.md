@@ -43,7 +43,8 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+### Describe any challenges encountered while building the app.
+I rebuilt the user login, logout functionality as I think it was a good experience to learn how that works. I spent a lot of time researching and reading documentation to learn how all parts fit together and works. I found that I slightly deviated from some of the requirements like if you click on a person's name I show you their post history. I found storing images and loading images wasn't the most obvious and had to tinker with settings.py. To set up a reset password I had to define a lot of variables in settings.py and I had to change the settings of my gmail account to test if it works.
 
 ## License
 
